@@ -1,37 +1,56 @@
-# 🌸 Sakura DNS
+# 🌸 Sakura Suite (Ultimate Edition)
 
-**Sakura DNS** es una herramienta ligera y estética ("Kawaii") para Windows que te permite gestionar tu configuración de DNS y optimizar tu conexión a internet, todo envuelto en una interfaz agradable con radio integrada.
+**Sakura Suite** es una colección "All-in-One" de herramientas de mantenimiento, optimización y personalización para Windows 10/11, diseñada con una estética **Kawaii** y minimalista.
 
-<img width="714" height="551" alt="image" src="https://github.com/user-attachments/assets/47b9903e-8b5f-4d86-ba0d-32116544a2e6" />
+<img width="1258" height="760" alt="image" src="https://github.com/user-attachments/assets/53f366ac-f489-4fdd-8f88-8870b48e8da0" />
 
-## ✨ Características
 
-* **⚡ Cambio Rápido:** Cambia entre Google, Cloudflare, OpenDNS, Quad9 y más con un clic.
-* **🛡️ Detección Inteligente:** Detecta automáticamente tu tarjeta de red activa (Wi-Fi o Ethernet).
-* **🎵 Kawaii Radio:** Reproductor integrado con visualizador de audio y música Anime/J-Pop 24/7.
-* **👾 Comunidad:** Acceso directo a nuestro servidor de Discord.
-* **🚀 Cero Instalación:** Funciona nativamente en Windows (HTA + PowerShell).
+## ✨ Características Principales
 
-## 📦 Requisitos
+Esta suite integra 5 módulos potentes en un solo archivo portátil:
 
-* Windows 10 o Windows 11.
-* Permisos de Administrador (para cambiar la configuración de red).
+1.  **📊 Monitor de Specs:**
+    * Monitor de CPU/RAM en tiempo real.
+    * Detección de SSD/NVMe y Slots de RAM.
+    * Ping de red en vivo.
+2.  **🧹 System Cleaner:**
+    * Limpieza profunda de temporales, Windows Update y Caché.
+    * Soporte para todos los navegadores (Chrome, Edge, Brave, Opera, Firefox).
+3.  **🌐 DNS Changer:**
+    * Cambio de DNS con un clic (Google, Cloudflare, AdGuard).
+    * Descripciones detalladas (Gaming, Privacidad, Familia).
+4.  **⚙️ Tweaker Pro:**
+    * Personalización visual (Modo Oscuro, Transparencias).
+    * Optimizaciones de Gaming (Game DVR, Prioridad CPU).
+    * Herramientas extra (GodMode, Visor de Fotos Clásico).
+5.  **🗑️ App Debloater:**
+    * Escáner inteligente (Detecta qué tienes instalado).
+    * Eliminación segura de Bloatware.
+    * Botón de restauración de emergencia.
 
-## 🛠️ Cómo Usar
+## 🚀 Requisitos e Instalación
 
-1.  Descarga el archivo `SakuraDNS.hta`.
-2.  Ejecutar
-3.  Elige tu servidor DNS favorito y dale a **¡APLICAR! ✨**.
+* **Sistema:** Windows 10 o Windows 11.
+* **Instalación:** ¡Ninguna! Es portable.
+* **Uso:**
+    1.  Descarga el archivo `SakuraSuite.hta`.
+    2.  Haz clic derecho -> **Ejecutar como Administrador**.
+    3.  ¡Disfruta!
 
-## ⚖️ Licencia y Uso
+> 🎵 **Bonus:** Incluye "Kawaii Anime Radio" integrada que no se corta al cambiar de pestaña.
 
-Este software es **GRATUITO** y de código abierto, pero tiene reglas estrictas:
+## ⚠️ Advertencia
+
+Esta herramienta modifica configuraciones del sistema y el registro de Windows.
+* Usa siempre el botón **"🛡️ CREAR PUNTO DE RESTAURACIÓN"** (pestaña Tweaker) antes de hacer cambios profundos.
+* El autor no se hace responsable por el uso indebido de la herramienta.
+
+## ⚖️ Licencia
 
 Copyright (c) 2025 **DanserAlvis**
 
-> ⛔ **PROHIBIDA SU VENTA:** Este software no puede ser vendido bajo ninguna circunstancia.
->
-> ⚠️ **Atribución Obligatoria:** Si compartes o modificas este código, debes dar crédito a **DanserAlvis** y enlazar al repositorio original.
+Este software es gratuito y de código abierto para uso personal.
+⛔ **PROHIBIDA SU VENTA O REDISTRIBUCIÓN COMERCIAL.**
 
 ---
-Hecho con 💖 por **DanserAlvis**.
+Hecho con 💖 y código HTA puro.
