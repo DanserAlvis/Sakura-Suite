@@ -1,0 +1,16 @@
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+*.temp
+
+# Carpetas de configuración de editores (si usas VS Code)
+.vscode/
+.idea/
+
+# No subir accesos directos
+*.lnk
