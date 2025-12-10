@@ -2,7 +2,8 @@
 
 **Sakura Suite** es una colección "All-in-One" de herramientas de mantenimiento, optimización y personalización para Windows 10/11, diseñada con una estética **Kawaii** y minimalista.
 
-<img width="1258" height="760" alt="image" src="https://github.com/user-attachments/assets/53f366ac-f489-4fdd-8f88-8870b48e8da0" />
+<img width="1266" height="751" alt="image" src="https://github.com/user-attachments/assets/141d648f-a1c3-4c08-820f-1ccaa06d99c6" />
+
 
 
 ## ✨ Características Principales
