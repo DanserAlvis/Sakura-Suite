@@ -1,4 +1,4 @@
-# 🌸 Sakura Suite (Ultimate Edition)
+# 🌸 Sakura Suite 6.2
 
 **Sakura Suite** es una colección "All-in-One" de herramientas de mantenimiento, optimización y personalización para Windows 10/11, diseñada con una estética **Kawaii** y minimalista.
 
